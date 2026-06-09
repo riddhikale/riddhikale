@@ -1,4 +1,4 @@
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=300&background=FF311200&width=435&lines=HI%2C+I'M+RIDDHI+S.+KALE;WELCOME+TO+MY+GITHUB+PROFILE)](https://git.io/typing-svg)  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=300&background=FF311200&center=true&vCenter=true&width=435&lines=HI%2C+I'M+RIDDHI+S.+KALE;WELCOME+TO+MY+GITHUB+PROFILE)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riddhikale&label=Profile%20views&color=0e75b6&style=flat" alt="riddhikale" /> </p>
 
