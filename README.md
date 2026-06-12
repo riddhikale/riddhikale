@@ -10,9 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=riddhikale&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.shion.dev/api?username=riddhikale&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=riddhikale&theme=dark&hide_border=true)<br/>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riddhi-s-kale/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riddhiskale28@gmail.com) 
